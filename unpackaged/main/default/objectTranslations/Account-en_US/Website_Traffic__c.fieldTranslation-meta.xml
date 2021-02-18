@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Website Traffic --></label>
+        <name>Website_Traffic__c</name>
+        <picklistValues>
+            <masterLabel>High - 100,000 - 1,000,000</masterLabel>
+            <translation><!-- High - 100,000 - 1,000,000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low - 1-20,000</masterLabel>
+            <translation><!-- Low - 1-20,000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medium - 20,001 - 100,000</masterLabel>
+            <translation><!-- Medium - 20,001 - 100,000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Very High - 1,000,000+</masterLabel>
+            <translation><!-- Very High - 1,000,000+ --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

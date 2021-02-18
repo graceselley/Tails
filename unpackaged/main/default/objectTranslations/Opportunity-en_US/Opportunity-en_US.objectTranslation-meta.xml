@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <recordTypes>
+        <label><!-- Affiliate Opportunity --></label>
+        <name>Affiliate_Opportunity</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Agency Opportunity --></label>
+        <name>Agency_Opportunity</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Influencer Opportunity --></label>
+        <name>Influencer_Opportunity</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Partner Opportunity --></label>
+        <name>Partner_Opportunity</name>
+    </recordTypes>
+</CustomObjectTranslation>

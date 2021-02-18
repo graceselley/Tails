@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- The values available in this picklist depend on the Account Type selected. --></help>
+        <label><!-- Account Sub Type --></label>
+        <name>Account_Sub_Type__c</name>
+    </CustomFieldTranslation>

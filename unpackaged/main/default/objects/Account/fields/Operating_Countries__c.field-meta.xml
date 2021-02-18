@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Operating_Countries__c</fullName>
+    <description>To select the countries this Account operates in</description>
+    <externalId>false</externalId>
+    <label>Operating Countries</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Country_Picklist</valueSetName>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

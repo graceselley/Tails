@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Agency</fullName>
+        <default>false</default>
+        <label>Agency</label>
+    </customValue>
+    <customValue>
+        <fullName>Association</fullName>
+        <default>false</default>
+        <label>Association</label>
+    </customValue>
+    <customValue>
+        <fullName>Blog</fullName>
+        <default>false</default>
+        <label>Blog</label>
+    </customValue>
+    <customValue>
+        <fullName>Card linked</fullName>
+        <default>false</default>
+        <label>Card linked</label>
+    </customValue>
+    <customValue>
+        <fullName>Cashback</fullName>
+        <default>false</default>
+        <label>Cashback</label>
+    </customValue>
+    <customValue>
+        <fullName>Channel management</fullName>
+        <default>false</default>
+        <label>Channel management</label>
+    </customValue>
+    <customValue>
+        <fullName>Charity</fullName>
+        <default>false</default>
+        <label>Charity</label>
+    </customValue>
+    <customValue>
+        <fullName>Closed group sale</fullName>
+        <default>false</default>
+        <label>Closed group sale</label>
+    </customValue>
+    <customValue>
+        <fullName>Comparison Site</fullName>
+        <default>false</default>
+        <label>Comparison Site</label>
+    </customValue>
+    <customValue>
+        <fullName>Consultant</fullName>
+        <default>false</default>
+        <label>Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate benefits</fullName>
+        <default>false</default>
+        <label>Corporate benefits</label>
+    </customValue>
+    <customValue>
+        <fullName>Creative / design</fullName>
+        <default>false</default>
+        <label>Creative / design</label>
+    </customValue>
+    <customValue>
+        <fullName>CRO / CJO</fullName>
+        <default>false</default>
+        <label>CRO / CJO</label>
+    </customValue>
+    <customValue>
+        <fullName>Customer rewards</fullName>
+        <default>false</default>
+        <label>Customer rewards</label>
+    </customValue>
+    <customValue>
+        <fullName>Display ad / media broker</fullName>
+        <default>false</default>
+        <label>Display ad / media broker</label>
+    </customValue>
+    <customValue>
+        <fullName>Dog Training</fullName>
+        <default>false</default>
+        <label>Dog Training</label>
+    </customValue>
+    <customValue>
+        <fullName>E-commerce</fullName>
+        <default>false</default>
+        <label>E-commerce</label>
+    </customValue>
+    <customValue>
+        <fullName>Editorial</fullName>
+        <default>false</default>
+        <label>Editorial</label>
+    </customValue>
+    <customValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Email</label>
+    </customValue>
+    <customValue>
+        <fullName>Finance / banking</fullName>
+        <default>false</default>
+        <label>Finance / banking</label>
+    </customValue>
+    <customValue>
+        <fullName>Food / Drinks</fullName>
+        <default>false</default>
+        <label>Food / Drinks</label>
+    </customValue>
+    <customValue>
+        <fullName>Household</fullName>
+        <default>false</default>
+        <label>Household</label>
+    </customValue>
+    <customValue>
+        <fullName>Insurance</fullName>
+        <default>false</default>
+        <label>Insurance</label>
+    </customValue>
+    <customValue>
+        <fullName>Interior</fullName>
+        <default>false</default>
+        <label>Interior</label>
+    </customValue>
+    <customValue>
+        <fullName>Lead Generation</fullName>
+        <default>false</default>
+        <label>Lead Generation</label>
+    </customValue>
+    <customValue>
+        <fullName>Loyalty</fullName>
+        <default>false</default>
+        <label>Loyalty</label>
+    </customValue>
+    <customValue>
+        <fullName>Media / editorial</fullName>
+        <default>false</default>
+        <label>Media / editorial</label>
+    </customValue>
+    <customValue>
+        <fullName>Mobile app / in app</fullName>
+        <default>false</default>
+        <label>Mobile app / in app</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <customValue>
+        <fullName>Outdoors</fullName>
+        <default>false</default>
+        <label>Outdoors</label>
+    </customValue>
+    <customValue>
+        <fullName>Pet brand</fullName>
+        <default>false</default>
+        <label>Pet brand</label>
+    </customValue>
+    <customValue>
+        <fullName>Pet Health</fullName>
+        <default>false</default>
+        <label>Pet Health</label>
+    </customValue>
+    <customValue>
+        <fullName>Pet Products</fullName>
+        <default>false</default>
+        <label>Pet Products</label>
+    </customValue>
+    <customValue>
+        <fullName>Pet sitter</fullName>
+        <default>false</default>
+        <label>Pet sitter</label>
+    </customValue>
+    <customValue>
+        <fullName>Platform</fullName>
+        <default>false</default>
+        <label>Platform</label>
+    </customValue>
+    <customValue>
+        <fullName>Research</fullName>
+        <default>false</default>
+        <label>Research</label>
+    </customValue>
+    <customValue>
+        <fullName>Review</fullName>
+        <default>false</default>
+        <label>Review</label>
+    </customValue>
+    <customValue>
+        <fullName>Reward platform</fullName>
+        <default>false</default>
+        <label>Reward platform</label>
+    </customValue>
+    <customValue>
+        <fullName>Social / influencer</fullName>
+        <default>false</default>
+        <label>Social / influencer</label>
+    </customValue>
+    <customValue>
+        <fullName>Sub-network</fullName>
+        <default>false</default>
+        <label>Sub-network</label>
+    </customValue>
+    <customValue>
+        <fullName>Subscription business</fullName>
+        <default>false</default>
+        <label>Subscription business</label>
+    </customValue>
+    <customValue>
+        <fullName>Sustainability</fullName>
+        <default>false</default>
+        <label>Sustainability</label>
+    </customValue>
+    <customValue>
+        <fullName>Tech / telco</fullName>
+        <default>false</default>
+        <label>Tech / telco</label>
+    </customValue>
+    <customValue>
+        <fullName>Technology</fullName>
+        <default>false</default>
+        <label>Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>Toolbar</fullName>
+        <default>false</default>
+        <label>Toolbar</label>
+    </customValue>
+    <customValue>
+        <fullName>Travel</fullName>
+        <default>false</default>
+        <label>Travel</label>
+    </customValue>
+    <customValue>
+        <fullName>UGC / forums</fullName>
+        <default>false</default>
+        <label>UGC / forums</label>
+    </customValue>
+    <customValue>
+        <fullName>Vets</fullName>
+        <default>false</default>
+        <label>Vets</label>
+    </customValue>
+    <customValue>
+        <fullName>Voucher code</fullName>
+        <default>false</default>
+        <label>Voucher code</label>
+    </customValue>
+    <masterLabel>Account Sub Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

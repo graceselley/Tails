@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Country_Remit__c</fullName>
+    <description>Space to store the countries this person operates in</description>
+    <externalId>false</externalId>
+    <label>Country Remit</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Country_Picklist</valueSetName>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Must_enter_at_least_one_contact_detail</fullName>
+    <active>true</active>
+    <description>User must fill out email, other email, phone, mobile, linked in page or social media page</description>
+    <errorConditionFormula>AND(
+ISBLANK( Email ),
+ISBLANK( Other_Email__c ),
+ISBLANK( MobilePhone ),
+ISBLANK( Phone ),
+ISBLANK( LinkedIn_Profile__c ),
+ISBLANK( Social_Media_Profile__c )
+)</errorConditionFormula>
+    <errorMessage>You must fill out at least one piece of contact information. Fill out Email, Other Email, Mobile, Phone, LinkedIn Profile or Social Media Profile.</errorMessage>
+</ValidationRule>

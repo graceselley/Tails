@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BusinessProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Affiliate %26 Partnerships Process</fullName>
+    <description>Opportunity stage process used by the affiliate &amp; partnerships team</description>
+    <isActive>true</isActive>
+    <values>
+        <fullName>Activity Agreed</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Blacklist</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Campaign Ended</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Campaign Live</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Contract</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>In Discussion</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Lost</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>On Hold</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Referred to Another Team</fullName>
+        <default>false</default>
+    </values>
+</BusinessProcess>
